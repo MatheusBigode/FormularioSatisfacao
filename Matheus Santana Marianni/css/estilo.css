@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&display=swap');
+
+body{
+    margin: 0;
+    font-family: akshar, cursive;
+}
+
+header{
+    background-color: #c98496;
+    padding: 20px;
+}
+
+header h2{
+    color: black;
+}
+
+footer{
+    background-color: #c98496;
+    padding: 40px;
+}
+
+footer li{
+    color: lightskyblue;
+}
+
+.div-product{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
+
+.div-product img{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+
+}
+
+.container{
+    margin: auto;
+    margin-top: 15px;
+    width: 70%;
+    padding: 8px;
+    border-radius: 15px;
+    border: 2px solid #ad2452;
+    margin-bottom: 15px;
+}
+
+.div-title{
+    margin-bottom: 10px;
+    padding: 15px;
+    background-color: rgb(252, 236, 245);
+    border-radius: 15px;
+}
+
+.div-title h2{
+    color: black;
+    text-align: center;
+}
+
+#descricao{
+    text-align: center;
+    font-size: 20px;
+}
+
+#p1{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#p2{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#p3{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#p4{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#p5{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#p6{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#p7{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#p8{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#agradecimento{
+    text-align: center;
+    font-size: 35px;
+    padding-top: 100px;
+}
